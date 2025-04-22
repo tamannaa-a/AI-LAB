@@ -1,6 +1,6 @@
 # AI-LAB — Artificial Intelligence Laboratory  
 
-Welcome to the AI-LAB repository! This collection features hands-on practicals for the Artificial Intelligence Laboratory course, designed to strengthen your understanding of AI fundamentals through real-world problem-solving using Python.  
+Welcome to the AI-LAB repository! This collection features hands-on practicals for the Artificial Intelligence Laboratory course, designed to strengthen understanding of AI fundamentals through real-world problem-solving using Python.  
 
 # 🛠️ Tech Stack
 
