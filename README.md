@@ -9,7 +9,7 @@ Welcome to the AI-LAB repository! This collection features hands-on practicals f
 * Development Tool-	Google Colab, Jupyter Notebook
 
 # Learning Outcomes
-By exploring this lab, you will:
+By exploring this lab, we will:
 
 * Understand and implement search strategies for AI agents
 
